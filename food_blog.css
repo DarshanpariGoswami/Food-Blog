@@ -1,0 +1,25 @@
+#burger-bar
+{
+	width: 10%;
+}
+#second_row
+{
+	padding: 50px;
+}
+#food-images
+{
+	width: 100%;
+	height: auto;
+
+}
+.The-Food-Man
+{position: relative; 
+	left:40px;
+	padding: 50px;
+text-align: center;
+}
+#chef
+{  
+	width: 80%;
+	height: auto;
+}
