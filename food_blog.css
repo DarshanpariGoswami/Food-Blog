@@ -23,3 +23,9 @@ text-align: center;
 	width: 80%;
 	height: auto;
 }
+#popular_tags
+{
+	background-color: grey;
+	color: white;
+	box-sizing: inherit;
+}
